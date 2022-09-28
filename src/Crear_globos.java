@@ -112,7 +112,7 @@ public class Crear_globos {
             Logger.getLogger(Crear_globos.class.getName()).log(Level.SEVERE, null, ex);
         }
 
-        JOptionPane.showMessageDialog(null, "Se ha creado los globos correctamente!");
+        JOptionPane.showMessageDialog(null, "Se han creado los globos correctamente!");
 
     }
 }
