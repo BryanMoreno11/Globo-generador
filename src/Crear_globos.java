@@ -18,7 +18,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  */
 /**
  *
- * @author Steven
+ * @author Bryan
  */
 public class Crear_globos {
 
